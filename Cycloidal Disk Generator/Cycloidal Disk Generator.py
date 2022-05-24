@@ -1,4 +1,4 @@
-# Author- Riley Peterson, Autodesk INC, Technical Consultant
+# Author- pete8081
 # Description- Creates cycloidal disk from user defined inputs.
 
 from email.policy import default
