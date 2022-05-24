@@ -133,7 +133,7 @@ class DiskCommandCreatedHandler(adsk.core.CommandCreatedEventHandler):
             initCenterHoleDiameter = adsk.core.ValueInput.createByReal(
                 defaultCenterHoleDiameter)
             inputs.addValueInput('centerHoleDiameter',
-                                 'Center Hole Diameter', 'cm', initCenterHoleDiameter)
+                                 'Center Hole Radius', 'cm', initCenterHoleDiameter)
 
             inputs.addStringValueInput(
                 'contraction', 'Contraction Value', defaultContraction)
