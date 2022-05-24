@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Riley Peterson",
+	"description":	{
+		"":	"Generates a cycloidal disk based on user defined parameters. Still a WIP\nCAUTION: Very resource Intensive\t"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
