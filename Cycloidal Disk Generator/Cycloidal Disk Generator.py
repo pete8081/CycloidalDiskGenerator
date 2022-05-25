@@ -1,8 +1,5 @@
 # Author- pete8081
 # Description- Creates cycloidal disk from user defined inputs.
-
-from email.policy import default
-from multiprocessing.sharedctypes import Value
 import adsk.core
 import adsk.fusion
 import adsk.cam
